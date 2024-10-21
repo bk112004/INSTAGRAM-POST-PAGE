@@ -1,0 +1,26 @@
+.image{
+    height:45px;
+    width:45px
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.post{
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 5px;
+}
+
+.caption{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blueviolet;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+}
